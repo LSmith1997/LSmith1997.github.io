@@ -49,6 +49,7 @@ a{
 .section-2{
     padding-top: 20vh;
     width: 70%;
+	
 }
 
 .section-2 h2{
@@ -85,7 +86,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-left: 10px;
+    padding-right:0px;
 }
 
 /* media queres */
